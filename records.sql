@@ -1,1 +1,3 @@
 SELECT * FROM documents WHERE ID = 12
+
+SELECT *
